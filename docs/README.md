@@ -1,3 +1,0 @@
-# YGX
-
-## first test
